@@ -1,8 +1,29 @@
-h1  
-{
-    color: rgb(24, 24, 24);
-   font-size: 400%;
+* {
+  color: white;
 }
-body {
-    background-color: rgb(236, 236, 234);
+
+body{ 
+  background-color: black;
+}
+
+.logo {
+  position: fixed;
+  z-index: -1;
+  width: 100vw;
+  height: 100vh;
+}
+
+.logo img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 4rem;
+  height: 80%;
+  width: 100%;
+  scale: 0.85;
+}
+
+.content{
+  position: relative;
+  z-index: 1;
 }
