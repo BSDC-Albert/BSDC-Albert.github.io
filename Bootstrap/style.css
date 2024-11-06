@@ -1,18 +1,3 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
 html {
-    border: red solid 2px;
- 
-}
-body { 
-    border: green solid 2px;
-    height: 100%;
-
-}
-.container {
-    border: rebeccapurple solid 2px;
+    background-color: rgb(19, 19, 19);
 }
