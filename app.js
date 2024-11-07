@@ -1,1 +1,1 @@
-console.log("The first attempt")
+console.log("Get out of the console NOW")
