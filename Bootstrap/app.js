@@ -1,1 +1,1 @@
-console.log("tracking code 93IFVX")
+console.log("Get out of the console NOW")
