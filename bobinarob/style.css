@@ -3,6 +3,19 @@
     margin: 0;
     box-sizing: border-box;
 }
+.container{
+    justify-content: center;
+    display: flex;
+    height: 100%;
+    align-items: center;
+}
+.box {
+    width: 375px;
+    height: 500px;
+    border-radius: 50px;
+
+    background-color: orange;
+}
 
 html,
 body{
