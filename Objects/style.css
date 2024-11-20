@@ -2,5 +2,18 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    height:100%;
+}
+html, body{
+    height: 100%;
+}
+table{
+    border: 1px solid black;
+    padding: 2px;
+}
+th {
+    border: 2px solid black;
+}
+td {
+    padding: 5px;
+    border: 1px solid rgb(41, 41, 41);
 }
